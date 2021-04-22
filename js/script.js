@@ -8,4 +8,5 @@ const obj = {
     isMarried: false
 };
 
-console.log(obj.name + 'fhskhfs');
+console.log(obj);
+console.log(obj);
